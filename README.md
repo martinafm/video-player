@@ -1,4 +1,4 @@
-# Infinity scroll
+# Custom video player
 
 Click [this](https://martinafm.github.io/video-player/) link to see it live in your browser.
 
